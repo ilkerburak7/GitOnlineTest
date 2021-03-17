@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/src/GitOnlineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GitOnlineTest.java" afterDir="false" />
 
     </list>
+    <list default="true" id="6c531609-0ec7-41c3-934b-8cb7479c96ce" name="Default Changelist" comment="updated by Amir" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +49,14 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="updated by Amir">
+      <created>1615943806990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615943806990</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <task active="true" id="Default" summary="Default task">
       <changelist id="c8a303a9-97e7-4fa1-8c87-eee7fe82effc" name="Default Changelist" comment="" />
       <created>1615941870847</created>
@@ -65,6 +74,20 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated by Amir" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated by Amir" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project has been created By Ilker" />
     <option name="LAST_COMMIT_MESSAGE" value="Project has been created By Ilker" />
