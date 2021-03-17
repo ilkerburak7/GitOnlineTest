@@ -2,7 +2,7 @@ public class GitOnlineTest {
 
     public static void main(String[] args) {
 
-        System.out.println("OnlineGang");
+        System.out.println("OnlineGangTeam");
         System.out.println("asdasd");
         System.out.println("asdasdasdasd");
         System.out.println("asdasdasdasfasdasfasd");
@@ -27,10 +27,15 @@ public class GitOnlineTest {
         System.out.println("asdasdasdasd");
         System.out.println("Asdasdasd");
   
-          System.out.println("Techtorial");
+         System.out.println("Techtorial");
+         System.out.println("Kunduz");
+         System.out.println("Kunduz");
+         System.out.println("SDET");
+        
 
-       System.out.println("Kunduz");
-        System.out.println("SDET");
+       
+ 
+        
 
     }
 }
