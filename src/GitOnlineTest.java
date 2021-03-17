@@ -4,6 +4,9 @@ public class GitOnlineTest {
         System.out.println("OnlineGang");
         System.out.println("Sampiyon Besiktas");
 
+        System.out.println("Kunduz");
+        System.out.println("SDET");
+
 
     }
 }
