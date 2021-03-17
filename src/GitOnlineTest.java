@@ -12,7 +12,9 @@ public class GitOnlineTest {
         System.out.println("asdqweqwewqe");
         System.out.println("Sampiyon Besiktas");
         System.out.println("ILKEEEEEEER");
+        System.out.println("Last change");
         System.out.println("Asasdasdas");
+        System.out.println("asdasdasd");
         System.out.println("asdasdasdqwewqe");
         System.out.println("asdqweqwewqe");
         System.out.println("Sampiyon Besiktas");
@@ -23,6 +25,11 @@ public class GitOnlineTest {
 
   
           System.out.println("Techtorial");
+
+        System.out.println("asdasdasdasd");
+
+
+        System.out.println("Asdasdasd");
 
     }
 }
