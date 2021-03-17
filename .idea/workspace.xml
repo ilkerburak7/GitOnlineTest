@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+
     <list default="true" id="c8a303a9-97e7-4fa1-8c87-eee7fe82effc" name="Default Changelist" comment="Project has been created By Ilker">
       <change beforePath="$PROJECT_DIR$/src/GitOnlineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GitOnlineTest.java" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -22,6 +25,7 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
+
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -31,6 +35,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
+
   <component name="ProjectId" id="1prWp61nxmNeoJaOmR4362LrHD4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -73,5 +78,6 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="542" y="362" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900/251.-1055.1920.1055@0.0.1440.900" timestamp="1615942038494" />
+
   </component>
 </project>
