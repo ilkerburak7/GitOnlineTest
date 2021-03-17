@@ -57,6 +57,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
+
   <component name="ProjectId" id="1prWp61nxmNeoJaOmR4362LrHD4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -120,5 +121,6 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="542" y="362" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900/251.-1055.1920.1055@0.0.1440.900" timestamp="1615942038494" />
+
   </component>
 </project>
