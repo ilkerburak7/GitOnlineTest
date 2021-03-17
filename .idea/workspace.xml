@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-
-    <list default="true" id="c8a303a9-97e7-4fa1-8c87-eee7fe82effc" name="Default Changelist" comment="Project has been created By Ilker">
+    <list default="true" id="c8a303a9-97e7-4fa1-8c87-eee7fe82effc" name="Default Changelist" comment="New changes made by ILker">
       <change beforePath="$PROJECT_DIR$/src/GitOnlineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GitOnlineTest.java" afterDir="false" />
-
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -20,12 +17,37 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main/ilker" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
-
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -35,7 +57,6 @@
       </MavenGeneralSettings>
     </option>
   </component>
-
   <component name="ProjectId" id="1prWp61nxmNeoJaOmR4362LrHD4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -62,22 +83,42 @@
       <option name="project" value="LOCAL" />
       <updated>1615942098013</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Project has been created By Ilker">
+      <created>1615942966351</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615942966351</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New changes made by ILker">
+      <created>1615944436383</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615944436383</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project has been created By Ilker" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project has been created By Ilker" />
+    <MESSAGE value="New changes made by ILker" />
+    <option name="LAST_COMMIT_MESSAGE" value="New changes made by ILker" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1615942112880">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="678" y="-839" key="Vcs.Push.Dialog.v2" timestamp="1615944657355">
+      <screen x="251" y="-1080" width="1920" height="1080" />
     </state>
     <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.0.1440.900/251.-1055.1920.1055@0.0.1440.900" timestamp="1615942112880" />
+    <state x="678" y="-839" key="Vcs.Push.Dialog.v2/0.0.1440.900/251.-1080.1920.1080@251.-1080.1920.1080" timestamp="1615944657355" />
+    <state x="1017" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615944495202">
+      <screen x="251" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1017" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/251.-1080.1920.1080@251.-1080.1920.1080" timestamp="1615944495202" />
+    <state x="1017" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.824/251.-1080.1920.1080@251.-1080.1920.1080" timestamp="1615943825914" />
     <state x="542" y="362" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1615942038494">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="542" y="362" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900/251.-1055.1920.1055@0.0.1440.900" timestamp="1615942038494" />
-
   </component>
 </project>
