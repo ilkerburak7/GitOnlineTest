@@ -6,6 +6,14 @@ public class GitOnlineTest {
         System.out.println("asdasdasdasd");
         System.out.println("asdasdasdasfasdasfasd");
         System.out.println("ILKEEEEEEER");
+        System.out.println("Asasdasdas");
+        System.out.println("asdasdasdqwewqe");
+        System.out.println("asdqweqwewqe");
+        System.out.println("Sampiyon Besiktas");
+        System.out.println("ILKEEEEEEER");
+        System.out.println("Asasdasdas");
+        System.out.println("asdasdasdqwewqe");
+        System.out.println("asdqweqwewqe");
         System.out.println("Sampiyon Besiktas");
 
 
